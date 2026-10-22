@@ -1,0 +1,25 @@
+22-10-2026
+-----------
+
+Write an algorithm to read two integers and print their sum.
+
+Algorithm: To read two integers and print their sum.
+Step 1: Start
+Step 2: Read a, b		scanf("%d%d", &d, &d);
+Step 3: c = a + b		c = a + b;
+Step 4: Print c			printf("%d", c);
+Step 5: Stop
+
+The above algorithm is verbose.
+We should make it concise.
+
+1. Write an algorithm to read marks scored by a student in any three subjects and find
+   his total marks obtained.
+2. Write an algorithm to read length and breadth of a rectangle and find its area.
+3. Write and algorithm to read two integers. Divide the first integer by the second and
+   print the quotient and remainder.
+
+
+1. GitHub
+2. Classroom
+
