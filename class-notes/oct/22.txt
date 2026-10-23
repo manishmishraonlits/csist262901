@@ -23,3 +23,15 @@ We should make it concise.
 1. GitHub
 2. Classroom
 
+Step to create and execute a c program:
+1. Compose the code using a text/code editor
+2. Save the code in a file with .c extension.
+3. 
+
+
+Ways to translate source code to machine code:
+1. Compilation (C, C++, Java, C#)
+2. Interpretation (Python, PHP, JavaScript)
+
+GCC: GNU Compiler Collection
+
