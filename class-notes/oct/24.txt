@@ -1,0 +1,48 @@
+Step 1: Start
+Step 2: Read the first integer
+Step 3: Store it
+Step 4: Read the second integer
+Step 5: Store it
+Step 6: Add the integers and store the result
+Step 7: Display the result
+Step 8: Stop
+
+The above algorithm is verbose.
+Also it misses on important programming concepts (variables, formulae etc)
+
+Step 1: Start
+Step 2: Read a, b
+Step 3: c = a + b
+Step 4: Print c
+Step 5: Stop
+
+
+Write an algorithm to read a temperature in degree celcius and convert it into 
+degree farenheit.
+
+Write an algorithm to accept sides of triangle and find its area.
+
+
+
+NPTEL = Govt of India + IITs
+
+NPTEL C
+
+Write and algorithm to read two integers. Divide the first integer by the second and print the quotient and remainder.
+
+Algorithm: To read two integers. Divide the first integer by the second and print the quotient and remainder.
+
+Step 1: Start
+Step 2: Read a, b		scanf("%d%d", &a, &b);
+Step 3: q = a / b		q = a / b;
+Step 4: r = a mod b		r = a % b;
+Step 5: Print q, r		printf("%d%d", q, r);
+Step 6: Stop
+
+Steps in developing a C program:
+1. Compose the source code using a text/code editor.
+2. Save the source code in a file with .c extension.
+3. Compile the source code using a compiler
+
+
+
