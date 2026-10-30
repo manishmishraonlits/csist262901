@@ -1,0 +1,10 @@
+IPO
+
+WAP to read an integer and find whether it is an armstrong number or not.
+
+Analyse
+Design
+Code
+Test - Test Cases
+
+Small Wonder
