@@ -1,0 +1,17 @@
+02-11-2026
+----------
+Step 1: Start
+Step 2: Read bs
+Step 3: da = bs * 40/100
+Step 4: hra = bs * 20/100
+Step 5: gs = bs + da + hra
+Step 6: Print gs
+Step 7: Stop
+
+Algorithmic Complexity:
+-----------------------
+1. Time
+2. Space
+
+O(1)
+O(n)
