@@ -4,7 +4,7 @@ int main(void)
 {
     int n, d, s = 0;
 
-    printf("Enter a 5-digit number: ");
+    printf("Enter a number: ");
     scanf("%d", &n);
 
     while (n > 0)

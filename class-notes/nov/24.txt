@@ -1,0 +1,20 @@
+What is int?
+
+For i as integer = 1 To n
+
+
+Next i
+
+WAP to display first n natural numbers?
+
+Expected Output:
+
+Enter the value of n: 10
+
+The first 10 natural numbers are: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+
+WAP to display the sum of first n natural numbers?
+
+Enter the value of n: 5
+
+Sum of the first 5 natural numbers is: 15.
