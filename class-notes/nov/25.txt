@@ -1,0 +1,5 @@
+Verbose
+Concise
+
+1. WAP to read an integer and display its factorial.
+2. WAP to display the terms of Fibonacci Series up to n terms.
